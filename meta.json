@@ -1,5 +1,9 @@
 {
     "inputs": [{
+        "id": "api_key",
+        "title":"API Key",
+        "description": "A valid Zoho API Key"
+    }, {
         "id": "update_map",
         "title":"Update Map",
         "description": "A Javascript object or array of javascript objects in <field_name>:<field_value> format."
