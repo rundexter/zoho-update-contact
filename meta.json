@@ -1,0 +1,10 @@
+{
+    "inputs": [{
+        "id": "update_map",
+        "title":"Update Map",
+        "description": "A Javascript object or array of javascript objects in <field_name>:<field_value> format."
+    }],
+    "outputs": [],
+    "icon": "user",
+    "title": "Zoho Update Contact"
+}
