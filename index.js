@@ -25,7 +25,7 @@ module.exports = {
           , xmlObj
         ;
 
-        assert(api_key, 'Zoho API key required in ZOHO_API_KEY environment variable');
+        assert(api_key, 'Zoho API key required');
 
         objects = _.map(objects, function(i) { return _.omit(i, ['api_key']); });
 
